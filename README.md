@@ -14,3 +14,5 @@ http://yeoman.io/
 
 The password list used is from:
 https://github.com/discourse/discourse/blob/master/lib/common_passwords/10k-common-passwords.txt
+
+* This project is strictly for educational purpouses. I am in no way, shape, or form responsible for what you do with this code. Use responsibly. *
